@@ -58,7 +58,7 @@ School system - это RESTful API, предназначенный для упр
 ### Как запустить
 1. **Клонировать репозиторий**:
    ```bash
-    git clone 
+    git clone https://github.com/Delphington/School.git
    ```
 2. **Создайте проект**:
    ```bash
